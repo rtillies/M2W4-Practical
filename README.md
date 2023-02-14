@@ -14,7 +14,7 @@ Please provide the QUERY (not the answer) that returns each of the following:
 1. The count of flights departing from Denver (`DEN`).
 1. The sum of prices for all flights arriving to Raleigh-Durham (`RDU`).
 1. The average price for all flights in the database.
-1. The average price for all flights arriving to Raleigh.
+1. The average price for all flights arriving to Raleigh-Durham.
 1. The departure city and number of flights departing from each city.
 1. The count of airlines in the database.
 1. The count of flights in the database.
